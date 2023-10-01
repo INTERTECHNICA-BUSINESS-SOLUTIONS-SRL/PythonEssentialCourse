@@ -1,0 +1,258 @@
+{
+  "2020": {
+    "9": {
+      "min_diesel_price": 4.328,
+      "avg_diesel_price": 4.34575,
+      "max_diesel_price": 4.379,
+      "min_gasoline_price": 4.438,
+      "avg_gasoline_price": 4.450125,
+      "max_gasoline_price": 4.471
+    },
+    "10": {
+      "min_diesel_price": 4.389,
+      "avg_diesel_price": 4.428709677419354,
+      "max_diesel_price": 4.502,
+      "min_gasoline_price": 4.469,
+      "avg_gasoline_price": 4.536451612903226,
+      "max_gasoline_price": 4.584
+    },
+    "11": {
+      "min_diesel_price": 4.371,
+      "avg_diesel_price": 4.470966666666666,
+      "max_diesel_price": 4.622,
+      "min_gasoline_price": 4.428,
+      "avg_gasoline_price": 4.5090666666666674,
+      "max_gasoline_price": 4.653
+    },
+    "12": {
+      "min_diesel_price": 4.622,
+      "avg_diesel_price": 4.737666666666668,
+      "max_diesel_price": 4.822,
+      "min_gasoline_price": 4.581,
+      "avg_gasoline_price": 4.690666666666667,
+      "max_gasoline_price": 4.766
+    }
+  },
+  "2021": {
+    "1": {
+      "min_diesel_price": 4.822,
+      "avg_diesel_price": 4.943967741935486,
+      "max_diesel_price": 5.012,
+      "min_gasoline_price": 4.766,
+      "avg_gasoline_price": 4.91741935483871,
+      "max_gasoline_price": 5.035
+    },
+    "2": {
+      "min_diesel_price": 4.996,
+      "avg_diesel_price": 5.141928571428573,
+      "max_diesel_price": 5.312,
+      "min_gasoline_price": 5.019,
+      "avg_gasoline_price": 5.164607142857145,
+      "max_gasoline_price": 5.342
+    },
+    "3": {
+      "min_diesel_price": 5.312,
+      "avg_diesel_price": 5.374933333333334,
+      "max_diesel_price": 5.445,
+      "min_gasoline_price": 5.342,
+      "avg_gasoline_price": 5.440666666666667,
+      "max_gasoline_price": 5.532
+    },
+    "4": {
+      "min_diesel_price": 5.319,
+      "avg_diesel_price": 5.370111111111113,
+      "max_diesel_price": 5.435,
+      "min_gasoline_price": 5.463,
+      "avg_gasoline_price": 5.512814814814815,
+      "max_gasoline_price": 5.583
+    },
+    "5": {
+      "min_diesel_price": 5.373,
+      "avg_diesel_price": 5.452322580645162,
+      "max_diesel_price": 5.509,
+      "min_gasoline_price": 5.494,
+      "avg_gasoline_price": 5.576677419354839,
+      "max_gasoline_price": 5.65
+    },
+    "6": {
+      "min_diesel_price": 5.463,
+      "avg_diesel_price": 5.595766666666667,
+      "max_diesel_price": 5.752,
+      "min_gasoline_price": 5.57,
+      "avg_gasoline_price": 5.671533333333334,
+      "max_gasoline_price": 5.801
+    },
+    "7": {
+      "min_diesel_price": 5.729,
+      "avg_diesel_price": 5.800774193548388,
+      "max_diesel_price": 5.839,
+      "min_gasoline_price": 5.747,
+      "avg_gasoline_price": 5.884193548387094,
+      "max_gasoline_price": 5.98
+    },
+    "8": {
+      "min_diesel_price": 5.686,
+      "avg_diesel_price": 5.748774193548389,
+      "max_diesel_price": 5.824,
+      "min_gasoline_price": 5.86,
+      "avg_gasoline_price": 5.922483870967746,
+      "max_gasoline_price": 6.032
+    },
+    "9": {
+      "min_diesel_price": 5.752,
+      "avg_diesel_price": 5.857599999999997,
+      "max_diesel_price": 5.957,
+      "min_gasoline_price": 5.903,
+      "avg_gasoline_price": 5.999866666666668,
+      "max_gasoline_price": 6.057
+    },
+    "10": {
+      "min_diesel_price": 5.988,
+      "avg_diesel_price": 6.267322580645162,
+      "max_diesel_price": 6.48,
+      "min_gasoline_price": 6.044,
+      "avg_gasoline_price": 6.27483870967742,
+      "max_gasoline_price": 6.421
+    },
+    "11": {
+      "min_diesel_price": 6.132,
+      "avg_diesel_price": 6.323133333333332,
+      "max_diesel_price": 6.449,
+      "min_gasoline_price": 6.062,
+      "avg_gasoline_price": 6.270499999999999,
+      "max_gasoline_price": 6.421
+    },
+    "12": {
+      "min_diesel_price": 6.009,
+      "avg_diesel_price": 6.076451612903223,
+      "max_diesel_price": 6.162,
+      "min_gasoline_price": 6.011,
+      "avg_gasoline_price": 6.073903225806451,
+      "max_gasoline_price": 6.183
+    }
+  },
+  "2022": {
+    "1": {
+      "min_diesel_price": 6.142,
+      "avg_diesel_price": 6.409967741935485,
+      "max_diesel_price": 6.685,
+      "min_gasoline_price": 6.196,
+      "avg_gasoline_price": 6.470419354838709,
+      "max_gasoline_price": 6.739
+    },
+    "2": {
+      "min_diesel_price": 6.685,
+      "avg_diesel_price": 6.935535714285716,
+      "max_diesel_price": 7.198,
+      "min_gasoline_price": 6.739,
+      "avg_gasoline_price": 6.959785714285716,
+      "max_gasoline_price": 7.139
+    },
+    "3": {
+      "min_diesel_price": 7.208,
+      "avg_diesel_price": 7.965290322580648,
+      "max_diesel_price": 8.502,
+      "min_gasoline_price": 7.149,
+      "avg_gasoline_price": 7.761419354838711,
+      "max_gasoline_price": 8.123
+    },
+    "4": {
+      "min_diesel_price": 8.512,
+      "avg_diesel_price": 8.552181818181817,
+      "max_diesel_price": 8.592,
+      "min_gasoline_price": 7.841,
+      "avg_gasoline_price": 7.885999999999999,
+      "max_gasoline_price": 7.977
+    },
+    "5": {
+      "min_diesel_price": 8.789,
+      "avg_diesel_price": 8.952566666666668,
+      "max_diesel_price": 9.045,
+      "min_gasoline_price": 7.874,
+      "avg_gasoline_price": 8.151666666666667,
+      "max_gasoline_price": 8.412
+    },
+    "6": {
+      "min_diesel_price": 9.004,
+      "avg_diesel_price": 9.277666666666667,
+      "max_diesel_price": 9.417,
+      "min_gasoline_price": 8.394,
+      "avg_gasoline_price": 8.674533333333333,
+      "max_gasoline_price": 8.815
+    },
+    "7": {
+      "min_diesel_price": 8.694,
+      "avg_diesel_price": 8.836612903225808,
+      "max_diesel_price": 8.904,
+      "min_gasoline_price": 8.002,
+      "avg_gasoline_price": 8.198548387096771,
+      "max_gasoline_price": 8.312
+    },
+    "8": {
+      "min_diesel_price": 8.335,
+      "avg_diesel_price": 8.432612903225808,
+      "max_diesel_price": 8.694,
+      "min_gasoline_price": 7.605,
+      "avg_gasoline_price": 7.719741935483869,
+      "max_gasoline_price": 8.002
+    },
+    "9": {
+      "min_diesel_price": 8.11,
+      "avg_diesel_price": 8.398699999999998,
+      "max_diesel_price": 8.622,
+      "min_gasoline_price": 6.708,
+      "avg_gasoline_price": 7.140633333333332,
+      "max_gasoline_price": 7.605
+    },
+    "10": {
+      "min_diesel_price": 8.11,
+      "avg_diesel_price": 8.398580645161294,
+      "max_diesel_price": 8.633,
+      "min_gasoline_price": 6.708,
+      "avg_gasoline_price": 6.918967741935488,
+      "max_gasoline_price": 7.174
+    },
+    "11": {
+      "min_diesel_price": 8.13,
+      "avg_diesel_price": 8.579766666666664,
+      "max_diesel_price": 8.756,
+      "min_gasoline_price": 6.921,
+      "avg_gasoline_price": 7.232933333333335,
+      "max_gasoline_price": 7.364
+    },
+    "12": {
+      "min_diesel_price": 7.31,
+      "avg_diesel_price": 7.553225806451613,
+      "max_diesel_price": 8.13,
+      "min_gasoline_price": 6.114,
+      "avg_gasoline_price": 6.360225806451614,
+      "max_gasoline_price": 6.903
+    }
+  },
+  "2023": {
+    "1": {
+      "min_diesel_price": 7.321,
+      "avg_diesel_price": 7.737161290322583,
+      "max_diesel_price": 7.884,
+      "min_gasoline_price": 6.114,
+      "avg_gasoline_price": 6.5182580645161305,
+      "max_gasoline_price": 6.698
+    },
+    "2": {
+      "min_diesel_price": 7.392,
+      "avg_diesel_price": 7.56567857142857,
+      "max_diesel_price": 7.854,
+      "min_gasoline_price": 6.641,
+      "avg_gasoline_price": 6.675892857142857,
+      "max_gasoline_price": 6.698
+    },
+    "3": {
+      "min_diesel_price": 7.392,
+      "avg_diesel_price": 7.444166666666668,
+      "max_diesel_price": 7.474,
+      "min_gasoline_price": 6.677,
+      "avg_gasoline_price": 6.740333333333335,
+      "max_gasoline_price": 6.79
+    }
+  }
+}

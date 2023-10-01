@@ -1,0 +1,34 @@
+{
+  "2020": {
+    "min_diesel_price": 4.328,
+    "avg_diesel_price": 4.495773252688172,
+    "max_diesel_price": 4.822,
+    "min_gasoline_price": 4.428,
+    "avg_gasoline_price": 4.546577486559141,
+    "max_gasoline_price": 4.766
+  },
+  "2021": {
+    "min_diesel_price": 4.822,
+    "avg_diesel_price": 5.662757159924902,
+    "max_diesel_price": 6.48,
+    "min_gasoline_price": 4.766,
+    "avg_gasoline_price": 5.725792062780908,
+    "max_gasoline_price": 6.421
+  },
+  "2022": {
+    "min_diesel_price": 6.142,
+    "avg_diesel_price": 8.19105898792068,
+    "max_diesel_price": 9.417,
+    "min_gasoline_price": 6.114,
+    "avg_gasoline_price": 7.456239580133128,
+    "max_gasoline_price": 8.815
+  },
+  "2023": {
+    "min_diesel_price": 7.321,
+    "avg_diesel_price": 7.582335509472607,
+    "max_diesel_price": 7.884,
+    "min_gasoline_price": 6.114,
+    "avg_gasoline_price": 6.6448280849974415,
+    "max_gasoline_price": 6.79
+  }
+}
